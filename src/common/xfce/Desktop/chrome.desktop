@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment[en_US]=This is my best browser
+Comment=This is my best browser
+Exec=/usr/bin/google-chrome --no-sandbox --temp-profile
+GenericName[en_US]=Chrome
+GenericName=Chrome
+Icon=google-chrome
+MimeType=
+Name[en_US]=Google Chrome
+Name=Google Chrome
+Path=/tmp/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
